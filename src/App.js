@@ -8,7 +8,7 @@ function App() {
   <>
       <h1>Handbags & Purses</h1>
       <nav>
-        <button type="button"></button>
+
 
       </nav>
 </>
